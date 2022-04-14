@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 💪 I have skills on Technologies - PHP, Node js
 - 📫 How to reach me: 📧 karansoren934@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I like to spend most of my time painting, Sketching.
+- ⚡ Fun fact: I like to spend most of my time painting, Sketching, and watching movies.
