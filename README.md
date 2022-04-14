@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently looking for job.
-- 🌱 I’m currently learning nodejs
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 💻 I have done my post-graduation on Computer Application.
+- 🎓 Recently, I have completed my post-graduation from University of Hyderabad, Hyderabad, India.  
+- 🔭 I’m currently looking for job.
+- 🌱 I’m currently learning nodejs.
+- 💪 Skills on Programming Language - C, C++, Java, Javascript
+- 💪 Skills on Technologies - PHP, Node js
