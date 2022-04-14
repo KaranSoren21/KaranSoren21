@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node js.
 - 💪 I have skills on Programming Language - C, C++, Java, Javascript
 - 💪 I have skills on Technologies - PHP, Node js
-- 📫 How to reach me: 📧 karansoren934@gmail.com
+- 📫 How to reach me: 📧 karansoren934@gmail.com https://www.linkedin.com/in/karan-soren-8946b716b/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to spend most of my time painting, Sketching, and watching movies.
 <img src ="https://github-readme-stats.vercel.app/api?username=KaranSoren21&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
