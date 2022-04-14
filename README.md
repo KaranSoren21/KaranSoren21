@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🎓 Recently, I have completed my post-graduation on Computer Application from University of Hyderabad, India.  
 - 🔭 I’m currently looking for job.
-- 🌱 I’m currently learning nodejs.
+- 🌱 I’m currently learning Node js.
 - 💪 I have skills on Programming Language - C, C++, Java, Javascript
 - 💪 I have skills on Technologies - PHP, Node js
