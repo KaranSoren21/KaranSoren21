@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💻 I have done my post-graduation on Computer Application.
-- 🎓 Recently, I have completed my post-graduation from University of Hyderabad, Hyderabad, India.  
+- 🎓 Recently, I have completed my post-graduation on Computer Application from University of Hyderabad, India.  
 - 🔭 I’m currently looking for job.
 - 🌱 I’m currently learning nodejs.
-- 💪 Skills on Programming Language - C, C++, Java, Javascript
-- 💪 Skills on Technologies - PHP, Node js
+- 💪 I have skills on Programming Language - C, C++, Java, Javascript
+- 💪 I have skills on Technologies - PHP, Node js
