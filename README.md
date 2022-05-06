@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 📧 karansoren934@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to spend most of my time painting, Sketching, and watching movies.
-<img src ="">
+<img src ="https://github-readme-stats.vercel.app/api?username=KaranSoren21&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151516">
